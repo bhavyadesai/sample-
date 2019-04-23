@@ -24,7 +24,10 @@ body {
   body {
     background-color: lightblue;
   }
+<<<<<<< HEAD
 }
+=======
+>>>>>>> e230de2b83f5a2d8b913ff42064b7b9bd5a2b2ca
 
 .header {
   background-color: #9933cc;
@@ -64,7 +67,8 @@ body {
 }
 nav li{
   display:inline;
-  padding-right: 10px;  
+  padding-right: 10px;
+  float: right;  
 }
 ul a{
    text-decoration:none;
@@ -101,8 +105,8 @@ wrap{
 footer {
     background-color: #d9d9d9;
     height: 90px;
-    margin-top: 30px;
     text-align: center;
+    margin-top: 30px;
   }
   .mailNotif {
     font-size: 18px;
