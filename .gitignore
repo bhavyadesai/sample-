@@ -130,5 +130,7 @@ title.png
 tile-wide.png
 .editorconfig
 .gitattributes
+.htaccess
+title.png
 
 # Useful .gitignore templates: https://github.com/github/gitignore
